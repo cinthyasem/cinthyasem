@@ -8,14 +8,14 @@
 ---
 
 ## 🔧 Technical Skills (English)
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **React.js**
 - **Node.js**
 - **Express.js**
 - **Sequelize**
-- **SQL (PostgreSQL, MySQL)**
+- **SQL**
 - **HTML5/CSS3**
-- **Agile Methodologies (Scrum)**
+- **Agile Methodologies**
 
 ---
 
